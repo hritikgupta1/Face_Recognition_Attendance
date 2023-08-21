@@ -1,0 +1,3 @@
+limitations:
+1) Any attendee can mark himself by said other to show his image through help of phone.
+2) Distance of camera and candidate face should be less for recognizing correctly.
